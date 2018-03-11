@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android-CustomPermission</string>
+    <string name="description_dangerous">危险权限描述</string>
+    <string name="description_normal">常规权限描述</string>
+    <string name="label_dangerous">危险权限标题</string>
+    <string name="label_normal">常规权限标题</string>
+</resources>
